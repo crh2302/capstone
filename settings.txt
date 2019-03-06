@@ -1,0 +1,5 @@
+-metricmetricsAdd all
+-MetricFileNameDisplayMode RelativePath
+-MetricDeclaredInFileDisplayMode RelativePath
+-MetricShowDeclaredInFile on
+-MetricShowFunctionParameterTypes on
