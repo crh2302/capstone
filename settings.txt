@@ -1,4 +1,4 @@
--metricmetricsAdd all
+-metricmetricsAdd MaxInheritanceTree PercentLackOfCohesion CountClassCoupled CountClassDerived CountDeclMethodAll SumCyclomatic
 -MetricFileNameDisplayMode RelativePath
 -MetricDeclaredInFileDisplayMode RelativePath
 -MetricShowDeclaredInFile on

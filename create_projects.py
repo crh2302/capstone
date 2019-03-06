@@ -9,17 +9,17 @@ import csv
 Clone repository
 Begin
 '''
-#
-# git_repository_url = "https://github.com/git/git.git"
-#
-# try:
-#     print("Cloning git project from ",git_repository_url)
-#     sh.git("clone", git_repository_url, _out=True)
-# except sh.ErrorReturnCode_128 as e:
-#     print("Destination path 'git' already exists and is not an empty directory")
-# except Exception as e:
-#     print(e)
-#     exit(1)
+
+git_repository_url = "https://github.com/git/git.git"
+
+try:
+    print("Cloning git project from ",git_repository_url)
+    sh.git("clone", git_repository_url, _out=True)
+except sh.ErrorReturnCode_128 as e:
+    print("Destination path 'git' already exists and is not an empty directory")
+except Exception as e:
+    print(e)
+    exit(1)
 
 '''
 Clone repository
@@ -30,9 +30,9 @@ End
 Create settings file 
 Begin
 '''
-#-metricmetricsAdd MaxInheritanceTree PercentLackOfCohesion CountClassCoupled CountClassDerived CountDeclMethodAll SumCyclomatic
+#
 settings_file_content = \
-"""-metricmetricsAdd all
+"""-metricmetricsAdd MaxInheritanceTree PercentLackOfCohesion CountClassCoupled CountClassDerived CountDeclMethodAll SumCyclomatic
 -MetricFileNameDisplayMode RelativePath
 -MetricDeclaredInFileDisplayMode RelativePath
 -MetricShowDeclaredInFile on
