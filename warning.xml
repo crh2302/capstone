@@ -1,0 +1,393 @@
+<project>
+  <languages>
+    <language
+      name="C++"/>
+  </languages>
+  <file_types/>
+  <files
+    default_addmode="Absolute"
+    default_encoding="System"
+    readonly="false"
+    maxfilesize="10485760"/>
+  <ada_options
+    count_and_or_operators="false"
+    count_exception_handlers="true"
+    count_for_loops="true"
+    create_record_object_components="false"
+    create_relations_between_formal_actual_parameters="false"
+    display="Original"
+    linkage_case="Lowercase"
+    optimize_for_less_memory="false"
+    preprocessor="None"
+    prompt_on_parse_error="true"
+    save_comments_associated_with_entities="true"
+    standard_library_directory="C:\Program Files\SciTools\conf\understand\ada\ada95"
+    version="Ada95"/>
+  <annotations_options
+    outfile=""/>
+  <assembly_options
+    assembler="1750A"
+    leading_spaces_option="true"
+    save_macro_expansion_text="false"
+    search_for_include_files_among_project_files="true"
+    treat_system_includes_as_user_includes="true"
+    use_case_insensitive_lookup_for_includes="false"/>
+  <basic_options
+    analyze_reference_dlls="true"
+    root_namespace=""/>
+  <cmake_options/>
+  <cobol_options
+    search_for_include_files_among_project_files="true"
+    compiler="Ansi85"
+    format="fixed"/>
+  <comparison_options
+    comparison_db=""/>
+  <cpp_options
+    add_found_include_files="false"
+    add_found_system_include_files="false"
+    allow_nested_comments="false"
+    c_std=""
+    compiler="Microsoft Visual C++"
+    compiler_include_path="%include%"
+    create_implicit_special_member_functions="false"
+    create_references_in_assembly="true"
+    create_references_in_inactive_code="true"
+    create_references_to_local_objects="true"
+    create_references_to_macros_during_macro_expansion="false"
+    create_references_to_parameters="true"
+    cxx_std=""
+    delayed_template_parsing="true"
+    triple=""
+    ignore_dir_in_include_files="true"
+    ignore_preprocessor_conditionals="false"
+    ios_min_version="5.0"
+    linkage_append_text=""
+    linkage_prepend_text=""
+    macos_min_version="10.7"
+    macro_expansion_truncation="1000"
+    msc_version="1300"
+    prompt_for_missing_include_files="false"
+    save_comments_associated_with_entities="true"
+    save_duplicate_references="false"
+    save_macro_expansion_text="false"
+    simplify_macro_expansion="false"
+    search_for_include_files_among_project_files="true"
+    start_worker_processes_serially="false"
+    sysroot=""
+    treat_system_includes_as_user_includes="true"
+    use_case_insensitive_lookup_for_includes="false"
+    compare_includes_by_content="false"
+    analyze_headers_in_isolation="true"
+    use_clang="false"
+    use_include_cache="true"
+    merge_multiple_function_definitions="false"
+    warning_level="NoWarnings"
+    objc_memory_mode="MrrMode"
+    worker_process_timeout="1">
+    <includes>
+      <include
+        directory="C:\git-sdk-64\usr\lib\gcc\x86_64-pc-msys\7.4.0\install-tools\include\"/>
+      <include
+        directory="C:\git-sdk-64\usr\lib\gcc\x86_64-pc-msys\7.4.0\include-fixed\"/>
+      <include
+        directory="C:\git-sdk-64\usr\lib\gcc\x86_64-pc-msys\7.4.0\include\c++\tr1\"/>
+      <include
+        directory="C:\git-sdk-64\usr\lib\gcc\x86_64-pc-msys\7.4.0\include\c++\"/>
+      <include
+        directory="C:\git-sdk-64\usr\lib\gcc\x86_64-pc-msys\7.4.0\include\"/>
+      <include
+        directory="C:\git-sdk-64\usr\include\w32api\"/>
+      <include
+        directory="C:\git-sdk-64\usr\include\sys\"/>
+      <include
+        directory="C:\git-sdk-64\usr\include\ssp\"/>
+      <include
+        directory="C:\git-sdk-64\usr\include\machine\"/>
+      <include
+        directory="C:\git-sdk-64\usr\include\cygwin\"/>
+      <include
+        directory="C:\git-sdk-64\usr\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\x86_64-w64-mingw32\include\sys\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\x86_64-w64-mingw32\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\lib\gcc\x86_64-w64-mingw32\7.3.0\install-tools\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\lib\gcc\x86_64-w64-mingw32\7.3.0\include-fixed\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\lib\gcc\x86_64-w64-mingw32\7.3.0\include\ssp\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\lib\gcc\x86_64-w64-mingw32\7.3.0\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\unistring\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\ruby-2.6.0\ruby\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\isl\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\glib-2.0\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\c++\7.3.0\tr1\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\c++\7.3.0\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\boost\predef\os\"/>
+      <include
+        directory="C:\git-sdk-64\mingw64\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\lib\gcc\i686-w64-mingw32\9.1.0\install-tools\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\lib\gcc\i686-w64-mingw32\9.1.0\include-fixed\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\lib\gcc\i686-w64-mingw32\9.1.0\include\ssp\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\lib\gcc\i686-w64-mingw32\9.1.0\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\unistring\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\ruby-2.6.0\ruby\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\isl\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\c++\9.1.0\tr1\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\c++\9.1.0\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\boost\predef\os\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\include\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\i686-w64-mingw32\include\sys\"/>
+      <include
+        directory="C:\git-sdk-64\mingw32\i686-w64-mingw32\include\"/>
+      <include
+        directory="C:\git_missing_libs\gawk\"/>
+      <include
+        directory="C:\git_missing_libs\libgnome-keyring\library\"/>
+      <include
+        directory="C:\git_missing_libs\libsecret\"/>
+      <include
+        directory="C:\git_missing_libs\libfirm\include\libfirm\"/>
+      <include
+        directory="C:\git_missing_libs\Core Foundation"/>
+      <include
+        directory="C:\git_missing_libs\security\Security-58286.70.7\header_symlinks\"/>
+    </includes>
+  </cpp_options>
+  <csharp_options
+    analyze_reference_dlls="true"
+    count_standard_in_max_inheritance="false"
+    framework_directory=""
+    locate_system_classes="UseDefaultFramework"
+    save_comments_associated_with_entities="true"/>
+  <fortran_options
+    allow_c_style_comments="false"
+    allow_colons_in_names="false"
+    allow_function_declaration_without_parentheses="false"
+    allow_parameter_declaration_without_parentheses="false"
+    allow_quote_in_octal_constants="false"
+    allow_semicolon_star_comment="false"
+    case_sensitive_identifiers="false"
+    display="Original"
+    format="Auto"
+    free_format_filter=""
+    intrinsics_file=""
+    linkage_append_text=""
+    linkage_case="Lowercase"
+    linkage_prepend_text=""
+    prompt_on_parse_error="true"
+    truncate="72"
+    truncate_custom="72"
+    use_preprocessor="true"
+    version="Fortran95"/>
+  <java_options
+    count_javadoc_in_metrics="true"
+    count_standard_in_max_inheritance="false"
+    jni_kni_include_package_name="true"
+    jni_kni_linkage_prepend_text="Java_"
+    save_comments_associated_with_entities="true"
+    version="Java8">
+    <class_paths>
+      <class_path
+        path="C:\Program Files\Java\jdk1.8.0_162\src.zip"/>
+      <class_path
+        path="C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar"/>
+    </class_paths>
+  </java_options>
+  <jovial_options
+    bits_in_byte="8"
+    bits_in_pointer="16"
+    bits_in_word="16"
+    display="Original"
+    expand_copy_file_references="false"
+    fixed_precision="15"
+    float_exp_bits="8"
+    float_precision="23"
+    int_precision="15"
+    linkage_case="Lowercase"
+    truncate="None"
+    truncate_custom="72"
+    version="Jovial73"/>
+  <plm_options
+    display="Original"
+    version="PL/M-80"/>
+  <python_options
+    assume_nearest_matches="false"
+    assume_single_choices="false"
+    ignore_import_errors_in_try_blocks="false"
+    python_exe="C:\Users\blackbox\Anaconda3\python.exe"
+    use_builtin_standard="true"
+    use_installed_standard="true"
+    version="Python3"/>
+  <metrics
+    declared_in_file_display_mode="no_path"
+    file_display_mode="no_path"
+    output_file="D:\research\gitproject\warnings2.csv"
+    show_declared_in_file="true"
+    show_function_parameter_types="true"
+    write_column_titles="true"/>
+  <pascal_options
+    allow_embedded_sql="true"
+    display="Original"
+    linkage_case="Preserve"
+    linkage_prepend_text=""
+    parse_standard_library_implementation="false"
+    version="Delphi"/>
+  <reports
+    date_stamping="false"
+    display_parameters="true"
+    index_by_method="true"
+    filename_mode="full"
+    generation_status="needs_generation"
+    generation_time="0"
+    html_clear_directory="false"
+    html_generation="true"
+    html_mode="alpha"
+    headertext_mode="false"
+    headerusertext_mode="false"
+    headertext_text="Report generated by Understand"
+    headerusertext_text=""
+    html_output_directory="D:\research\gitproject\warnings2_html"
+    html_size="250"
+    text_clear_directory="false"
+    text_generation="false"
+    text_mode="single"
+    text_output_file="D:\research\gitproject\warnings2.txt"
+    text_separate_files_directory="D:\research\gitproject\warnings2_text">
+    <report
+      name="Data Dictionary"
+      enabled="true"/>
+    <report
+      name="File Contents"
+      enabled="true"/>
+    <report
+      name="Program Unit Cross Reference"
+      enabled="true"/>
+    <report
+      name="Object Cross Reference"
+      enabled="true"/>
+    <report
+      name="Type Cross Reference"
+      enabled="true"/>
+    <report
+      name="Macro Cross Reference"
+      enabled="true"/>
+    <report
+      name="Include File Cross Reference"
+      enabled="true"/>
+    <report
+      name="Declaration Tree"
+      enabled="true"/>
+    <report
+      name="Extend Tree"
+      enabled="false"/>
+    <report
+      name="Invocation Tree"
+      enabled="false"/>
+    <report
+      name="Simple Invocation Tree"
+      enabled="true"/>
+    <report
+      name="Imports"
+      enabled="true"/>
+    <report
+      name="With Tree"
+      enabled="true"/>
+    <report
+      name="Simple With Tree"
+      enabled="true"/>
+    <report
+      name="Generic Instantiation"
+      enabled="true"/>
+    <report
+      name="Exception Cross Reference"
+      enabled="true"/>
+    <report
+      name="Renames"
+      enabled="true"/>
+    <report
+      name="Program Unit Complexity"
+      enabled="true"/>
+    <report
+      name="Project Metrics"
+      enabled="true"/>
+    <report
+      name="Program Unit Metrics"
+      enabled="true"/>
+    <report
+      name="File Metrics"
+      enabled="true"/>
+    <report
+      name="File Average Metrics"
+      enabled="true"/>
+    <report
+      name="Fortran Extension Usage"
+      enabled="true"/>
+    <report
+      name="Class Metrics"
+      enabled="true"/>
+    <report
+      name="Class OO Metrics"
+      enabled="true"/>
+    <report
+      name="Implicitly Declared Objects"
+      enabled="true"/>
+    <report
+      name="Uninitialized Items"
+      enabled="true"/>
+    <report
+      name="Unused Objects and Functions"
+      enabled="true"/>
+    <report
+      name="Unused Objects"
+      enabled="true"/>
+    <report
+      name="Unused Types"
+      enabled="true"/>
+    <report
+      name="Unused Program Units"
+      enabled="true"/>
+    <report
+      name="Uses Not Needed"
+      enabled="true"/>
+    <report
+      name="Withs Not Needed"
+      enabled="true"/>
+  </reports>
+  <vhdl_options
+    library="work"/>
+  <visual_studio/>
+  <web_options
+    allow_asp_style_php_tags="false"
+    allow_jquery="false"
+    allow_node_js="false"
+    allow_short_php_tags="true"
+    assume_single_choices="false"
+    js_module_search_path=""
+    node_js_predefined_config_file="C:\Program Files\SciTools\conf\understand\javascript\nodejs_predefined.txt"
+    node_js_search_path=""
+    save_php_comments="true"
+    search_strings_for_entity_names="false"
+    php_version="5.3"/>
+</project>

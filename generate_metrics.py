@@ -43,7 +43,7 @@ def generate_metrics_by_commit(commit_hash, git_dir, metric_folder, languages ='
             git.checkout(os.path.join(git_dir, ".git"), git_dir, commit_hash)
             understand.generate_metrics_by_commit_understand(commit_hash, "c++",
                                                              git_dir,
-                                                             'settings.txt',
+                                                             'data/settings.txt',
                                                              metric_folder)
             break
         except OSError as e:
@@ -80,11 +80,10 @@ def generate_metric_all_commits(commit_collection, git_dir, metric_folder):
     :rtype: None
     """
 
-    for count, row in enumerate(commit_collection):
-        current_commit = row[0]  # There are better ways
+    for count, current_commit in enumerate(commit_collection):
         log.info("------------------------------- Commit" + str(count) + " --------------------------------")
-        if validate_commit_hash(current_commit):
-            generate_metrics_by_commit(current_commit, git_dir, metric_folder)
+        #if validate_commit_hash(current_commit):
+        generate_metrics_by_commit(current_commit, git_dir, metric_folder)
 
 
 

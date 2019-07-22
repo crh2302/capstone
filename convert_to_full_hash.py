@@ -46,12 +46,12 @@ def add_hash(data_frame, commit_hashes_df):
 
 
 def run():
-    my_column_names = ["unique"]
-    my_file_name = 'unique.csv'
+    my_column_names = ["commit_hashes"]
+    my_file_name = r'D:\capstone\data\demma.csv'
     data = read_data(my_file_name, my_column_names)
     data = select_unique_data(data, my_column_names)
     my_column_names = ["commit_hashes"]
-    my_file_name = 'commit_hashes.csv'
+    my_file_name = 'commit_full_hash_demma.csv'
     commit_hashes_df = read_data(my_file_name, my_column_names)
     commit_hashes_df = select_unique_data(commit_hashes_df, my_column_names)
     data = add_hash(data, commit_hashes_df)

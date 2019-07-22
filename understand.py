@@ -1,6 +1,7 @@
 import os
 import subprocess
 import logging
+import shutil
 
 log = logging.getLogger(__name__)
 
@@ -15,8 +16,10 @@ def und_make_working_dir(working_dir):
     :return: None
     :rtype: None
     """
-    if not os.path.isdir(working_dir):
-        os.makedirs(working_dir)
+    if os.path.isdir(working_dir):
+        shutil.rmtree(working_dir)
+
+    os.makedirs(working_dir)
 
 
 def und_create_db(udb_file, project_languages="c++"):
@@ -46,7 +49,7 @@ def und_add_files_to_db(udb_file, repository_dir):
     :return: None
     :rtype: None
     """
-    subprocess.call(f"und add -db {udb_file} {repository_dir}")
+    subprocess.call(f"und add -db {udb_file} {repository_dir}", shell=True)
 
 
 def und_setup_setting(udb_file, settings_file_path):
@@ -74,7 +77,8 @@ def und_generate_metrics(udb_file):
     :rtype: None
     """
     log.info(f"Running Analysis for commit: {udb_file} ...")
-    subprocess.call(f"und analyze -db {udb_file}")
+    # stdout=subprocess.DEVNULL makes silent the stdout ,
+    subprocess.call(f"und analyze -db {udb_file}", stdout=subprocess.DEVNULL)
     log.info("Calculating metrics and creating csv")
     subprocess.call(f"und metrics {udb_file}")
 
@@ -88,6 +92,24 @@ def und_clean_up(udb_file):
     os.remove(udb_file)
 
 
+def und_add_setting(udb_file, configuration_path_file):
+    """
+    Wrapper for und settings. This allows to import configurations
+
+    :param configuration_path_file: The path to the settings file
+    :type configuration_path_file: basestring
+    :param udb_file: Name of the understand database
+    :type udb_file: basestring
+    :return:
+    :rtype:
+    """
+    subprocess.call(f"und import {configuration_path_file} {udb_file}")
+
+
+def und_set_output_file_path(udb_file, output_path):
+    subprocess.call(f"und settings -MetricOutputFile {output_path} {udb_file}")
+
+
 def generate_metrics_by_commit_understand(current_commit, project_languages,
                                           repository_dir,
                                           settings_file_name,
@@ -95,14 +117,25 @@ def generate_metrics_by_commit_understand(current_commit, project_languages,
                                           root_path=r"./temp/"):
     und_make_working_dir(root_path)
     udb_commit_file_name = f"{root_path + current_commit}.udb"
+
     log.info(f"Creating udb database for commit: {current_commit}")
     und_create_db(udb_commit_file_name, project_languages)
+
+    log.info(f"Adding settings to file")
+    und_add_setting(udb_commit_file_name, "D:\capstone\warnings3.xml")
+
+    log.info(f"Setting output path for metric file")
+    und_set_output_file_path(udb_commit_file_name, f"{root_path + current_commit}.csv")
+
     log.info(f"Adding files to commit: {current_commit}")
     und_add_files_to_db(udb_commit_file_name, repository_dir)
+
     log.info(f"Adding metrics to commit: {current_commit}")
     und_setup_setting(udb_commit_file_name, settings_file_name)
     und_generate_metrics(udb_commit_file_name)
+
     log.info(f"Moving {current_commit}.csv to metric folder")
     und_move_to_path(root_path, metrics_folder_dir, current_commit)
+
     log.info(f"Removing {udb_commit_file_name}")
     und_clean_up(udb_commit_file_name)
