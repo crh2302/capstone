@@ -45,7 +45,7 @@ def add_hash(data_frame, commit_hashes_df):
     return data_frame
 
 
-def run():
+def convert_to_full_hash():
     my_column_names = ["commit_hashes"]
     my_file_name = r'D:\capstone\data\demma.csv'
     data = read_data(my_file_name, my_column_names)
@@ -58,4 +58,3 @@ def run():
     data.loc[:, data.columns == 'hash'].to_csv("data.csv", index=None)
 
 
-run()

@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/delete/deema_substract.py" description="frame = {row[0]: df_metrics[df_metrics[&quot;commit_has..." line="17" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d092d31a-dfc6-4272-9fd4-1ad94460bde7" name="Default Changelist" comment="Refactors and documentation">
-      <change afterPath="$PROJECT_DIR$/commits03.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/merged.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/separate_agregated_data/agre.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/separate_agregated_data/agre_funct11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/separate_agregated_data/agre_funct12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/separate_agregated_data/agre_funct21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/separate_agregated_data/agre_funct22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/deema_commits.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/deema_merge_subtraction_nozero.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/deema_subtraction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/deema_subtraction.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/finaloutput.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no_zero_with_static_metrics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no_zero_with_static_metrics_reorg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete/deema_merge_subtract_nozero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete/deema_substract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete/info_for_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete/verify_commit_exist_2_info_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics_deema/file_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics_deema/file_max.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics_deema/file_sum.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics_deema/merged.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/research.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/research.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/git.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_to_full_hash.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/understand.py" beforeDir="false" afterPath="$PROJECT_DIR$/understand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert_to_full_hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/convert_to_full_hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_commit_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/create_commit_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/deema_count_pairs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/deema_count_pairs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/demma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/list_of_commits.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/demma_commits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/delete/demma_commits1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/unique.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/unique.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deema_commit_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/deema_commit_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deema_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/deema_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deema_filter_metric_to_file_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_metric_delta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deema_merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/deema_merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deema_substract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/possible_settings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_unique_pair.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/extract_unique_pair.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter_metric_to_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/filter_metric_to_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter_metric_to_file_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/filter_metric_to_file_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unique_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/unique_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verify_commit_duplicity_2_info_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/verify_commit_duplicity_2_info_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verify_commit_exist_2_info_files.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +58,123 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/capstone$main.coverage" NAME="main Coverage Results" MODIFIED="1559074082746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$extract_unique_pair.coverage" NAME="extract_unique_pair Coverage Results" MODIFIED="1563804896485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$filter_metric_to_file.coverage" NAME="filter_metric_to_file Coverage Results" MODIFIED="1562822254502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$deema_count.coverage" NAME="deema_count Coverage Results" MODIFIED="1563819488471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$main.coverage" NAME="main Coverage Results" MODIFIED="1565835138648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$verify_commit_duplicity_2_info_files.coverage" NAME="verify_commit_duplicity_2_info_files Coverage Results" MODIFIED="1563760032721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$deema_substract.coverage" NAME="deema_substract Coverage Results" MODIFIED="1563916645690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/capstone$create_projects.coverage" NAME="create_projects Coverage Results" MODIFIED="1559008473094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/capstone$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1559073224974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/capstone$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1564186177883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/capstone$create_metric_delta.coverage" NAME="create_metric_delta Coverage Results" MODIFIED="1565835207638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$deema_merge_subtract_nozero.coverage" NAME="deema_merge_subtract_nozero Coverage Results" MODIFIED="1563984429030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$verify_commit_exist_2_info_files.coverage" NAME="verify_commit_exist_2_info_files Coverage Results" MODIFIED="1565665510552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$d_filter_metric_to_file_filter.coverage" NAME="d_filter_metric_to_file_filter Coverage Results" MODIFIED="1565828360617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$create_commit_info.coverage" NAME="create_commit_info Coverage Results" MODIFIED="1563757390711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$filter_metric_to_file_filter.coverage" NAME="filter_metric_to_file_filter Coverage Results" MODIFIED="1563602879051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$generate_metrics.coverage" NAME="generate_metrics Coverage Results" MODIFIED="1565766520786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$agregate_data.coverage" NAME="agregate_data Coverage Results" MODIFIED="1563252620641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$my_functions.coverage" NAME="my_functions Coverage Results" MODIFIED="1565773090268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$merge_deema.coverage" NAME="merge_deema Coverage Results" MODIFIED="1563772310222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone$filter_metric_to_file_filter_deema.coverage" NAME="filter_metric_to_file_filter_deema Coverage Results" MODIFIED="1563771349741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="capstone" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="create_metric_delta.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create_metric_delta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="145" column="21" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_avg.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metrics_deema/file_avg.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state>
+              <caret column="55" selection-start-column="38" selection-end-column="55" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_max.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metrics_deema/file_max.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state>
+              <caret column="42" selection-start-column="21" selection-end-column="42" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="merged.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metrics_deema/merged.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="finaloutput.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/finaloutput.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="417" selection-start-line="14" selection-start-column="417" selection-end-line="14" selection-end-column="417" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,28 +185,42 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>dtype</find>
+      <find>02e6a0601b846d197e062f5efdf29fdcef54d54c</find>
+      <find>2e6a0601b846d197e062f5efdf29fdcef54d54c</find>
+      <find>f =</find>
+      <find>Cyclo</find>
       <find />
-      <find>MaxInheritanceTree</find>
-      <find>PercentLackOfCohesion</find>
-      <find>CountClassCoupled</find>
-      <find>CountClassDerived</find>
-      <find>CountDeclMethodAll</find>
-      <find>SumCyclomatic</find>
-      <find>RelativePath</find>
-      <find>&quot;&quot;</find>
-      <find>ERROR</find>
-      <find>commits_to_analyse_file_name</find>
-      <find>4533e5343bb1171b932f787e345d6cff920a4e70</find>
-      <find>49eb8d39c78f161231e63293df60f343d208f409</find>
-      <find>0d4a8b5b6ce4db0846b3545a753f0e698db3eda9</find>
-      <find>4cc676c46cf07d0302d36e4aea9ecf847510383e</find>
-      <find>bc4efaf10306f23600649d4988eac0d4b2e216b7</find>
-      <find>std</find>
-      <find>FNULL</find>
-      <find>root_dir</find>
-      <find>metrics_folder_dir</find>
-      <find>list</find>
+      <find>'</find>
+      <find>ae520e36</find>
+      <find>Adding files to commit</find>
+      <find>bb0ba997</find>
+      <find>read</find>
+      <find>d9545c7f465ed103df44cd93caddfdd265757779</find>
+      <find>8f4496148b643f48ec969f48fdaf5d6d8e6153ed</find>
+      <find>2fc0f1849bd0d6100719bb53f89f15fbd734157a</find>
+      <find>2e3926b9489cb767b38526a3a72403087053a1d8</find>
+      <find>05a5869a01779e6fb55535aff9b01716aac42dcf</find>
+      <find>5ab72</find>
+      <find>b7b744f2</find>
+      <find>1:</find>
+      <find>0:</find>
+      <find>5ab7227</find>
+      <find>2016-05-11</find>
+      <find>headers = [&quot;Commit A&quot;, &quot;Commit B&quot;]</find>
+      <find>print(len(df.index))</find>
+      <find>df_unique_pairs.headers = [&quot;Commit A&quot;, &quot;Commit B&quot;]</find>
+      <find>df_result</find>
+      <find>file_avg</find>
+      <find>commit_hash</find>
+      <find>demma_commits</find>
+      <find>print</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\capstone\metrics2</dir>
+      <dir>D:\capstone\metrics</dir>
+      <dir>D:\capstone\metrics01</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,27 +228,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/unique.csv" />
-        <option value="$PROJECT_DIR$/commit_hashes.csv" />
-        <option value="$PROJECT_DIR$/understand_settings.txt" />
-        <option value="$PROJECT_DIR$/settings.txt" />
-        <option value="$PROJECT_DIR$/metrics/this_is_a_test_.txt" />
-        <option value="$PROJECT_DIR$/read_data.py" />
-        <option value="$PROJECT_DIR$/commits.csv" />
-        <option value="$PROJECT_DIR$/commits01.csv" />
-        <option value="$PROJECT_DIR$/commits02.csv" />
-        <option value="$PROJECT_DIR$/commits03.csv" />
-        <option value="$PROJECT_DIR$/commits04.csv" />
-        <option value="$PROJECT_DIR$/commits-c.csv" />
-        <option value="$PROJECT_DIR$/bitacora" />
-        <option value="$PROJECT_DIR$/logging.py" />
-        <option value="$PROJECT_DIR$/create_projects.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/generate_metrics.py" />
+        <option value="$PROJECT_DIR$/functions.py" />
+        <option value="$PROJECT_DIR$/metrics3/file.csv" />
+        <option value="$PROJECT_DIR$/filter_metric_to_file.py" />
+        <option value="$PROJECT_DIR$/agre_funct12.csv" />
+        <option value="$PROJECT_DIR$/agre_funct21.csv" />
+        <option value="$PROJECT_DIR$/agre_funct22.csv" />
+        <option value="$PROJECT_DIR$/agre_funct11.csv" />
+        <option value="$PROJECT_DIR$/agregate_data.py" />
+        <option value="$PROJECT_DIR$/metrics3/file_avg.csv" />
+        <option value="$PROJECT_DIR$/metrics3/file_fun.csv" />
+        <option value="$PROJECT_DIR$/metrics3/file_max.csv" />
+        <option value="$PROJECT_DIR$/metrics3/file_sum.csv" />
+        <option value="$PROJECT_DIR$/missing.csv" />
+        <option value="$PROJECT_DIR$/metrics5/file_fun.csv" />
+        <option value="$PROJECT_DIR$/metrics5/file_avg.csv" />
+        <option value="$PROJECT_DIR$/metrics5/file_max.csv" />
+        <option value="$PROJECT_DIR$/metrics5/file_sum.csv" />
+        <option value="$PROJECT_DIR$/data/commits.csv" />
+        <option value="$PROJECT_DIR$/data/unique.csv" />
+        <option value="$PROJECT_DIR$/data/commit_hashes.csv" />
         <option value="$PROJECT_DIR$/understand.py" />
-        <option value="$PROJECT_DIR$/git.py" />
+        <option value="$PROJECT_DIR$/generate_metrics.py" />
+        <option value="$PROJECT_DIR$/unique_text.py" />
+        <option value="$PROJECT_DIR$/verify_commit_duplicity_2_files.py" />
+        <option value="$PROJECT_DIR$/verify_commit_duplicity_2_info_files.py" />
+        <option value="$PROJECT_DIR$/data/no_zeros_2.csv" />
+        <option value="$PROJECT_DIR$/data/missing.csv" />
+        <option value="$PROJECT_DIR$/data/demma.csv" />
+        <option value="$PROJECT_DIR$/deema_commit_metrics.py" />
+        <option value="$PROJECT_DIR$/filter_metric_to_file_filter_deema.py" />
+        <option value="$PROJECT_DIR$/merge_deema.py" />
+        <option value="$PROJECT_DIR$/extract_unique_pair.py" />
+        <option value="$PROJECT_DIR$/deema_count.py" />
+        <option value="$PROJECT_DIR$/deema_substract.py" />
+        <option value="$PROJECT_DIR$/deema_merge_substract_nozero.py" />
+        <option value="$PROJECT_DIR$/deema_merge_subtract_nozero.py" />
+        <option value="$PROJECT_DIR$/data/demma_commits.csv" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/bitacora" />
+        <option value="$PROJECT_DIR$/data/all_commits.csv" />
+        <option value="$PROJECT_DIR$/data/deema_count_pairs.csv" />
+        <option value="$PROJECT_DIR$/verify_commit_exist_2_info_files.py" />
+        <option value="$PROJECT_DIR$/project_util.py" />
+        <option value="$PROJECT_DIR$/info_for_project.py" />
         <option value="$PROJECT_DIR$/convert_to_full_hash.py" />
+        <option value="$PROJECT_DIR$/filter_metric_to_file_filter.py" />
+        <option value="$PROJECT_DIR$/create_commit_info.py" />
+        <option value="$PROJECT_DIR$/deema_filter_metric_to_file_filter.py" />
+        <option value="$PROJECT_DIR$/d_filter_metric_to_file_filter.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/my_functions.py" />
       </list>
     </option>
   </component>
@@ -95,13 +292,15 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -129,18 +328,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="merge&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/datascience/bugs_dedupl_data_science" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\capstone" />
+      <recent name="D:\capstone\backup" />
+      <recent name="D:\capstone\separate_agregated_data" />
       <recent name="$PROJECT_DIR$/venv/lib/python3.6/site-packages/scitools" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/doc" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\capstone\delete" />
+      <recent name="D:\capstone\data" />
+      <recent name="D:\capstone\doc" />
+      <recent name="D:\capstone\metrics3" />
+      <recent name="D:\capstone\backup" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -155,8 +360,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="create_projects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.create_metric_delta">
+    <configuration name="create_metric_delta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +374,45 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\capstone\generate_metrics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_metric_delta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="d_filter_metric_to_file_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\capstone\create_metric_delta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="generate_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_metrics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +437,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,27 +445,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.create_projects" />
-      <item itemvalue="Python.scratch" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.d_filter_metric_to_file_filter" />
+      <item itemvalue="Python.generate_metrics" />
+      <item itemvalue="Python.my_functions" />
+      <item itemvalue="Python.create_metric_delta" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_metric_delta" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.create_projects" />
+        <item itemvalue="Python.d_filter_metric_to_file_filter" />
+        <item itemvalue="Python.my_functions" />
+        <item itemvalue="Python.generate_metrics" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +498,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559078833908</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactors and documentation">
+      <created>1559321892802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559321892803</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Working with deemas files. The code is such a mess right now.">
+      <created>1563811553552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563811553552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -266,30 +527,55 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32897604" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.18443497" side_tool="true" weight="0.2777778" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" x="2019" y="719" width="1531" height="255" id="Run" order="2" sideWeight="0.1624161" side_tool="true" weight="0.24643874" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" visible="true" weight="0.17521368" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
-      <window_info anchor="bottom" id="Docker" order="10" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8375839" weight="0.24643874" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49946696" weight="0.32763532" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.19932885" side_tool="true" weight="0.39601138" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info anchor="bottom" x="2019" y="719" width="1531" height="255" id="Run" order="7" sideWeight="0.2557047" visible="true" weight="0.36894587" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.80067116" weight="0.23504274" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49874055" visible="true" weight="0.18322147" />
+      <window_info anchor="bottom" id="Docker" order="11" weight="0.32905984" />
+      <window_info anchor="right" id="Database" order="6" side_tool="true" weight="0.152349" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.63892615" />
+      <window_info id="Structure" order="1" sideWeight="0.50125945" side_tool="true" weight="0.12416107" />
+      <window_info id="Favorites" order="2" sideWeight="0.50125945" side_tool="true" weight="0.12416107" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.63691276" weight="0.43447295" />
+      <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" x="2019" y="719" width="1531" height="255" id="Run" order="2" sideWeight="0.6939597" side_tool="true" visible="true" weight="0.37749287" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.30604026" weight="0.37749287" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.18443497" side_tool="true" weight="0.2777778" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.5865772" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8901919" weight="0.39978212" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -304,19 +590,29 @@
     <MESSAGE value="Reimplemented commands using os.call instead of using the sh library." />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="Refactors and documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactors and documentation" />
+    <MESSAGE value="Working with deemas files. The code is such a mess right now." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with deemas files. The code is such a mess right now." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/delete/filter_metric_to_file_filter.py</url>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="array_of_commits" />
-        <watch expression="current_commit" />
-        <watch expression="row" language="Python" />
-        <watch expression="header" />
-        <watch expression="commits_reader" />
+        <watch expression="unique_pairs_path" />
       </configuration>
     </watches-manager>
   </component>
@@ -338,382 +634,415 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'D:\\capstone\\data\\deema_unique_pairs.csv'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>df_no_zero.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df_no_zero.shape()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df_no_zero</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/commits.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="193556">
-          <caret line="8798" column="40" selection-start-line="8798" selection-start-column="40" selection-end-line="8798" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
+    <entry file="file://$PROJECT_DIR$/delete/verify_commit_exist_2_info_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2772">
-          <caret line="128" column="74" selection-start-line="128" selection-start-column="74" selection-end-line="128" selection-end-column="74" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commits.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="193556">
-          <caret line="8798" column="40" selection-start-line="8798" selection-start-column="40" selection-end-line="8798" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
+    <entry file="file://$PROJECT_DIR$/delete/deema_count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2816">
-          <caret line="128" column="74" selection-start-line="128" selection-start-column="74" selection-end-line="128" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="193556">
-          <caret line="8798" column="40" selection-start-line="8798" selection-start-column="40" selection-end-line="8798" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2816">
-          <caret line="128" column="74" selection-start-line="128" selection-start-column="74" selection-end-line="128" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="193556">
-          <caret line="8798" column="40" selection-start-line="8798" selection-start-column="40" selection-end-line="8798" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits01.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commits02.csv">
+    <entry file="file://$PROJECT_DIR$/metrics_deema1/merged.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commits03.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits04.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits01.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits02.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits03.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits04.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
+    <entry file="file://$PROJECT_DIR$/delete/convert_to_full_hash.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="54" column="38" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="38" />
+        <state relative-caret-position="-108">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2838">
-          <caret line="131" lean-forward="true" selection-start-line="77" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib64/python3.6/site-packages/sh.py" />
-    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib64/python3.6/site-packages/easy-install.pth" />
-    <entry file="file://$PROJECT_DIR$/test.csv" />
-    <entry file="file://$PROJECT_DIR$/1fb9df724833b0d0dffaefc6886ac60247c67a0c.csv" />
-    <entry file="file://$PROJECT_DIR$/metrics/this_is_a_test_.txt" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/sh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="814" selection-start-line="814" selection-end-line="814" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/possible_settings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="111" column="66" selection-start-line="111" selection-start-column="66" selection-end-line="111" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="414">
-          <caret line="1071" selection-start-line="1071" selection-end-line="1071" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metrics/0a3f07d6c0ce8ee3fb315d582a0eaaba56fb7873.csv" />
-    <entry file="file://$PROJECT_DIR$/metrics/0a4ae91d1cf72b1185a46e5f072ac6b25b92350b.csv" />
-    <entry file="file://$PROJECT_DIR$/commits02.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits03.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits04.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits01.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-43519">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commit_hashes.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="349">
-          <caret line="8782" selection-end-line="8798" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commits-c.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-75681">
-          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1521904734/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="339" column="4" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1521904734/sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="19" column="3" selection-start-line="19" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/logging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logging.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/capstone/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="1739" column="4" selection-start-line="1739" selection-start-column="4" selection-end-line="1739" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1521904734/_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+    <entry file="file://$PROJECT_DIR$/delete/deema_merge_subtract_nozero.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="67" />
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commits.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="321">
-          <caret line="8797" column="40" lean-forward="true" selection-start-line="8797" selection-start-column="40" selection-end-line="8797" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git.py">
+    <entry file="file://$PROJECT_DIR$/delete/deema_merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
+    <entry file="file://$PROJECT_DIR$/delete/filter_metric_to_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="484">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete/extract_unique_pair.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete/deema_substract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="38" selection-start-line="38" selection-end-line="41" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete/filter_metric_to_file_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="155" selection-start-line="155" selection-end-line="156" selection-end-column="45" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.txt">
+    <entry file="file://$PROJECT_DIR$/delete/create_commit_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert_to_full_hash.py">
+    <entry file="file://$PROJECT_DIR$/doc/possible_settings.txt" />
+    <entry file="file://$PROJECT_DIR$/warning.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="127">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unique.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
+    <entry file="file://$PROJECT_DIR$/git.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="81" lean-forward="true" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/understand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="102" column="26" lean-forward="true" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+        <state relative-caret-position="22">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="17" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/capstone/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/all_commits.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-193321">
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/deema_count_pairs.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-11946">
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/commit_hashes.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="22">
+          <caret line="8783" column="40" selection-start-line="8783" selection-end-line="8783" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3">
+          <column index="0" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.csv" />
+    <entry file="file://$PROJECT_DIR$/data/deema_commit.csv" />
+    <entry file="file://$PROJECT_DIR$/data/unique.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="257">
+          <caret line="1071" lean-forward="true" selection-start-line="1071" selection-end-line="1071" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/capstone/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="417" selection-start-line="417" selection-end-line="417" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete/demma_commits1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="13" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/capstone/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="2656" selection-start-line="2656" selection-end-line="2656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/deema_commits.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="10" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/capstone/Lib/site-packages/pandas/core/computation/expressions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/capstone/Lib/site-packages/pandas/core/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="1504" selection-start-line="1504" selection-end-line="1504" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/deema_unique_pairs.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema/file_sum.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-305535" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/no_zeros_2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-2001">
+          <caret line="9450" column="30" selection-start-line="9450" selection-start-column="30" selection-end-line="9450" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/deema_merge_subtraction_nozero.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-108047">
+          <caret line="4629" column="9" selection-start-line="4629" selection-start-column="9" selection-end-line="4629" selection-end-column="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.log">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete/bitacora">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="439">
+            <caret line="234" selection-start-line="234" selection-end-line="234" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete/info_for_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/list_of_commits.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-23024">
+          <caret column="13" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/settings.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/no_zero_with_static_metrics.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/deema_subtraction">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema1/file_sum.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema1/file_avg.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema1/file_max.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="330">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="62" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitacora">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/my_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_metric_delta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema/file_avg.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="55" selection-start-column="38" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema/file_max.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="42" selection-start-column="21" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics_deema/merged.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-70625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/finaloutput.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="417" selection-start-line="14" selection-start-column="417" selection-end-line="14" selection-end-column="417" />
         </state>
       </provider>
     </entry>
